@@ -2,9 +2,9 @@
 <img src="https://allwebs.ru/images/2026/10/23/c7f66b0ff4bf99a77de49277d6f5a5f7.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="pho" title="pho" href="tel:+79096262358" coords="695,875,45,974" shape="rect">
-    <area target="" alt="tel" title="tel" href="https://t.me/IVkharitonov" coords="689,978,49,1079" shape="rect">
-    <area target="" alt="ya" title="ya" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="676,1082,49,1191" shape="rect">
-    <area target="" alt="con" title="con" href="tel:+79096262358" coords="44,1191,592,1294" shape="rect">
-    <area target="" alt="ya2" title="ya2" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="656,1311,20,1429" shape="rect">
+    <area target="_blank" alt="pho" title="pho" href="tel:+79096262358" coords="695,875,45,974" shape="rect">
+    <area target="_blank" alt="tel" title="tel" href="https://t.me/IVkharitonov" coords="689,978,49,1079" shape="rect">
+    <area target="_blank" alt="ya" title="ya" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="676,1082,49,1191" shape="rect">
+    <area target="_blank" alt="con" title="con" href="tel:+79096262358" coords="44,1191,592,1294" shape="rect">
+    <area target="_blank" alt="ya2" title="ya2" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="656,1311,20,1429" shape="rect">
 </map>
