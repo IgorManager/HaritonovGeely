@@ -43,25 +43,26 @@
 </head>
 <body>
 
-    <div class="card-container">
+        <div class="card-container">
         <!-- Ваша картинка-визитка -->
-        <img src="https://allwebs.ru/images/2026/10/23/c7f66b0ff4bf99a77de49277d6f5a5f7.png" alt="Визитная карточка">
+        <img src="https://allwebs.ru" alt="Визитная карточка">
 
-        <!-- Кнопка 1: Позвонить (Основная кнопка) -->
-        <a href="tel:+79096262358" class="btn-link" style="top: 57.2%; left: 5.5%; width: 90%; height: 6.8%;"></a>
+        <!-- Кнопка 1: Позвонить (Ширина уменьшена до 51%, кнопка теперь точно на синей плашке) -->
+        <a href="tel:+79096262358" class="btn-link" style="top: 57.2%; left: 5.5%; width: 51%; height: 6.8%;"></a>
 
-        <!-- Кнопка 2: Написать в Telegram -->
-        <a href="https://t.me/IVkharitonov" target="_blank" class="btn-link" style="top: 64.1%; left: 5.5%; width: 90%; height: 6.8%;"></a>
+        <!-- Кнопка 2: Написать в Telegram (Ширина 51%) -->
+        <a href="https://t.me" target="_blank" class="btn-link" style="top: 64.1%; left: 5.5%; width: 51%; height: 6.8%;"></a>
 
-        <!-- Кнопка 3: Построить маршрут в Яндекс Навигаторе -->
-        <a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" target="_blank" class="btn-link" style="top: 71.0%; left: 5.5%; width: 90%; height: 7.2%;"></a>
+        <!-- Кнопка 3: Построить маршрут (Ширина 51%) -->
+        <a href="https://yandex.ru" target="_blank" class="btn-link" style="top: 71.0%; left: 5.5%; width: 51%; height: 7.2%;"></a>
 
-        <!-- Кнопка 4: Сохранить контакт (Дублирует звонок / для вызова меню) -->
-        <a href="tel:+79096262358" class="btn-link" style="top: 78.2%; left: 5.5%; width: 78%; height: 6.8%;"></a>
+        <!-- Кнопка 4: Сохранить контакт (Ширина 51%) -->
+        <a href="tel:+79096262358" class="btn-link" style="top: 78.2%; left: 5.5%; width: 51%; height: 6.8%;"></a>
 
-        <!-- Кнопка 5: Нижний блок с адресом (Ведет на Яндекс Карты) -->
-        <a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" target="_blank" class="btn-link" style="top: 86.0%; left: 3.0%; width: 90%; height: 8.0%;"></a>
+        <!-- Кнопка 5: Нижний блок с адресом (Оставлен пошире, чтобы попадать по тексту адреса) -->
+        <a href="https://yandex.ru" target="_blank" class="btn-link" style="top: 86.0%; left: 5.5%; width: 55%; height: 8.0%;"></a>
     </div>
+
 
 </body>
 </html>
