@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Харитонов Игорь Валентинович - Geely АвтоСпецЦентр Дубровка
     </title>
-    <style>
+        <style>
         /* Сброс базовых отступов */
         * {
             box-sizing: border-box;
@@ -13,20 +13,16 @@
         }
         
         body {
-            background-color: #0d0f12; /* Темный фон под стиль визитки */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            font-family: sans-serif;
+            background-color: #ffffff; /* Меняем фон страницы на белый */
+            display: block; /* Отменяем центрирование по вертикали */
         }
 
         /* Главный контейнер визитки */
         .card-container {
             position: relative;
             width: 100%;
-            max-width: 720px; /* Ограничение максимальной ширины на ПК */
-            margin: 0 auto;
+            max-width: 720px; /* Максимальная ширина на ПК */
+            margin: 0 auto; /* Картинка будет по центру, но прижата к верху */
         }
 
         /* Адаптивная картинка визитки */
@@ -41,10 +37,9 @@
             position: absolute;
             display: block;
             cursor: pointer;
-            /* Чтобы увидеть точные границы кнопок при отладке, раскомментируйте строчку ниже: */
-            /* background: rgba(255, 0, 0, 0.3); */
         }
     </style>
+
 </head>
 <body>
 
