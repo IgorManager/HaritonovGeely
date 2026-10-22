@@ -3,4 +3,8 @@
 
 <map name="image-map">
     <area target="" alt="pho" title="pho" href="tel:+79096262358" coords="595,874,45,974" shape="rect">
+    <area target="" alt="tel" title="tel" href="https://t.me/IVkharitonov" coords="595,979,49,1079" shape="rect">
+    <area target="" alt="ya" title="ya" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="595,1085,47,1191" shape="rect">
+    <area target="" alt="con" title="con" href="tel:+79096262358" coords="44,1191,592,1294" shape="rect">
+    <area target="" alt="ya2" title="ya2" href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr" coords="656,1311,20,1429" shape="rect">
 </map>
