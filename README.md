@@ -11,16 +11,16 @@
         }
 
         body {
-            background-color: #ffffff;              /* белый фон */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            min-height: 100dvh;                     /* корректная высота на iOS/Android */
-            font-family: sans-serif;
-            padding: 16px;
-            -webkit-text-size-adjust: 100%;         /* не увеличивать шрифт при повороте */
-        }
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;      /* карточка у верха */
+    min-height: 100vh;
+    min-height: 100dvh;
+    font-family: sans-serif;
+    padding: 0 16px 16px;         /* без отступа сверху */
+    -webkit-text-size-adjust: 100%;
+}
 
         .card-container {
             position: relative;
