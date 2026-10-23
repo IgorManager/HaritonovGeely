@@ -93,7 +93,7 @@
 
         <!-- 4. Сохранить контакт -->
         <a href="tel:+79096262358" class="btn-link" aria-label="Сохранить контакт"
-           style="top: 78.2%; left: 50%; transform: translateX(-50%); width: 74%; height: 6.8%;"></a>
+           style="top: 78.2%; left: 50%; transform: translateX(-50%); width: 84%; height: 6.8%;"></a>
 
         <!-- 5. Нижний блок с адресом -->
         <a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr"
