@@ -79,26 +79,26 @@
         <img src="https://allwebs.ru/images/2026/10/23/c7f66b0ff4bf99a77de49277d6f5a5f7.png" alt="Визитная карточка">
 
         <!-- 1. Позвонить -->
-        <a href="tel:+79096262358" class="btn-link" aria-label="Позвонить"
-           style="top: 57.2%; left: 50%; transform: translateX(-50%); width: 84%; height: 6.8%;"></a>
+<a href="tel:+79096262358" class="btn-link" aria-label="Позвонить"
+   style="top: 57.2%; left: 5.5%; width: 54%; height: 6.8%;"></a>
 
-        <!-- 2. Написать в Telegram -->
-        <a href="https://t.me/IVkharitonov" target="_blank" rel="noopener" class="btn-link" aria-label="Написать в Telegram"
-           style="top: 64.1%; left: 50%; transform: translateX(-50%); width: 84%; height: 6.8%;"></a>
+<!-- 2. Telegram -->
+<a href="https://t.me/IVkharitonov" target="_blank" rel="noopener" class="btn-link" aria-label="Написать в Telegram"
+   style="top: 64.1%; left: 5.5%; width: 54%; height: 6.8%;"></a>
 
-        <!-- 3. Построить маршрут -->
-        <a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr"
-           target="_blank" rel="noopener" class="btn-link" aria-label="Построить маршрут"
-           style="top: 71.0%; left: 50%; transform: translateX(-50%); width: 84%; height: 7.2%;"></a>
+<!-- 3. Маршрут -->
+<a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr"
+   target="_blank" rel="noopener" class="btn-link" aria-label="Построить маршрут"
+   style="top: 71.0%; left: 5.5%; width: 54%; height: 7.2%;"></a>
 
-        <!-- 4. Сохранить контакт -->
-        <a href="tel:+79096262358" class="btn-link" aria-label="Сохранить контакт"
-           style="top: 78.2%; left: 50%; transform: translateX(-50%); width: 84%; height: 6.8%;"></a>
+<!-- 4. Сохранить контакт -->
+<a href="tel:+79096262358" class="btn-link" aria-label="Сохранить контакт"
+   style="top: 78.2%; left: 5.5%; width: 54%; height: 6.8%;"></a>
 
-        <!-- 5. Нижний блок с адресом -->
-        <a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr"
-           target="_blank" rel="noopener" class="btn-link" aria-label="Открыть адрес на карте"
-           style="top: 86.0%; left: 50%; transform: translateX(-50%); width: 88%; height: 8.0%;"></a>
+<!-- 5. Адрес -->
+<a href="https://yandex.ru/navi/org/geely_avtospetstsentr_dubrovka/45834037513?si=6ttvt4kacg8xh1utkr3nyjb8zr"
+   target="_blank" rel="noopener" class="btn-link" aria-label="Открыть адрес на карте"
+   style="top: 86.0%; left: 5.5%; width: 54%; height: 8.0%;"></a>
     </div>
 
 </body>
